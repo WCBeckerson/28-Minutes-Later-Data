@@ -3,7 +3,7 @@ RNAseq data for 28 Minutes Later
 
 The raw RNAseq data used in the analysis performed as part of 28 Minutes Later: Investigating the role of aflatrem-like compounds in Ophiocordyceps manipulation of zombie ants by William C. Beckerson, Courtney Krider, Umar A. Mohammad, and Charissa de Bekker, can be found at NCBI under the following BioSample accessions:
 
-BioProject ID:      PRJNA914723
+BioProject ID:      PRJNA914723 https://www.ncbi.nlm.nih.gov/sra/PRJNA914723
 
 A1_R1_001   SAMN32350638    https://www.ncbi.nlm.nih.gov/biosample/32350638
 
